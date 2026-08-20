@@ -1,0 +1,112 @@
+[
+  {
+    "data_seed": 2026,
+    "Age (normalized)": 0.09428945740073687,
+    "Health score": 0.1967975868533055,
+    "Smoking status": 0.03982093979914983,
+    "BMI risk index": 0.045286092633007986,
+    "Preventive check-up adherence": 0.08708694086720546,
+    "Claims in previous 12 months (normalized)": 0.029551796475425364,
+    "explanation_seconds": 0.35970432083332377,
+    "ig_completeness_residual": 0.00033815873709196843
+  },
+  {
+    "data_seed": 2027,
+    "Age (normalized)": 0.08815330870371933,
+    "Health score": 0.1920609905694922,
+    "Smoking status": 0.0487551083167394,
+    "BMI risk index": 0.04820559254148975,
+    "Preventive check-up adherence": 0.07452437520648042,
+    "Claims in previous 12 months (normalized)": 0.025945094150180616,
+    "explanation_seconds": 0.1425730224499754,
+    "ig_completeness_residual": 0.00035069689620286225
+  },
+  {
+    "data_seed": 2028,
+    "Age (normalized)": 0.0857660508484211,
+    "Health score": 0.21174576276292403,
+    "Smoking status": 0.03278900360067685,
+    "BMI risk index": 0.041471031287013224,
+    "Preventive check-up adherence": 0.069063989399001,
+    "Claims in previous 12 months (normalized)": 0.025387274427339436,
+    "explanation_seconds": 0.1380861621666251,
+    "ig_completeness_residual": 0.0003842103760689497
+  },
+  {
+    "data_seed": 2029,
+    "Age (normalized)": 0.09705105637355398,
+    "Health score": 0.18993454535181323,
+    "Smoking status": 0.03932933459679286,
+    "BMI risk index": 0.04078948452576393,
+    "Preventive check-up adherence": 0.09328334447927773,
+    "Claims in previous 12 months (normalized)": 0.029261523578315973,
+    "explanation_seconds": 0.1785724376749992,
+    "ig_completeness_residual": 0.000293494031454126
+  },
+  {
+    "data_seed": 2030,
+    "Age (normalized)": 0.08942239691774982,
+    "Health score": 0.19793846365064383,
+    "Smoking status": 0.04318441897630691,
+    "BMI risk index": 0.043673735453921836,
+    "Preventive check-up adherence": 0.07776932070652644,
+    "Claims in previous 12 months (normalized)": 0.025353040297826132,
+    "explanation_seconds": 0.23901845500005645,
+    "ig_completeness_residual": 0.000324224183956782
+  },
+  {
+    "data_seed": 2031,
+    "Age (normalized)": 0.07810535720782355,
+    "Health score": 0.17585737115393082,
+    "Smoking status": 0.05458641263345877,
+    "BMI risk index": 0.04691533218841262,
+    "Preventive check-up adherence": 0.07034766408614815,
+    "Claims in previous 12 months (normalized)": 0.020663756458088756,
+    "explanation_seconds": 0.1518236872500817,
+    "ig_completeness_residual": 0.00029795041385417186
+  },
+  {
+    "data_seed": 2032,
+    "Age (normalized)": 0.07197490391942361,
+    "Health score": 0.1924167161807418,
+    "Smoking status": 0.03675142601132393,
+    "BMI risk index": 0.04159415307549352,
+    "Preventive check-up adherence": 0.07321079393538336,
+    "Claims in previous 12 months (normalized)": 0.027826236421242358,
+    "explanation_seconds": 0.4074701565833569,
+    "ig_completeness_residual": 0.00036272276192903517
+  },
+  {
+    "data_seed": 2033,
+    "Age (normalized)": 0.0906265288067516,
+    "Health score": 0.17172616080691416,
+    "Smoking status": 0.04242584146559238,
+    "BMI risk index": 0.05039604216775236,
+    "Preventive check-up adherence": 0.0730538320572426,
+    "Claims in previous 12 months (normalized)": 0.029714679981892308,
+    "explanation_seconds": 0.15272053346673906,
+    "ig_completeness_residual": 0.0003047798372184237
+  },
+  {
+    "data_seed": 2034,
+    "Age (normalized)": 0.08531683819213261,
+    "Health score": 0.21337413998941582,
+    "Smoking status": 0.03318850919604301,
+    "BMI risk index": 0.043981328512503144,
+    "Preventive check-up adherence": 0.08895454962427417,
+    "Claims in previous 12 months (normalized)": 0.030193063632274666,
+    "explanation_seconds": 0.14653270624167666,
+    "ig_completeness_residual": 0.00043068457550058764
+  },
+  {
+    "data_seed": 2035,
+    "Age (normalized)": 0.09086969006651392,
+    "Health score": 0.18588839086393516,
+    "Smoking status": 0.0436446330199639,
+    "BMI risk index": 0.04722784239565954,
+    "Preventive check-up adherence": 0.06486784523973863,
+    "Claims in previous 12 months (normalized)": 0.02499864863542219,
+    "explanation_seconds": 0.1474495492666468,
+    "ig_completeness_residual": 0.0003936221823096275
+  }
+]

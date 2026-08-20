@@ -1,0 +1,59 @@
+{
+  "data_seed": 2026,
+  "model_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "num_policyholders": 600,
+  "num_claims": 600,
+  "num_health_policies": 450,
+  "num_providers": 40,
+  "hidden_channels": 64,
+  "dropout": 0.2,
+  "learning_rate": 0.005,
+  "weight_decay": 0.0001,
+  "max_epochs": 400,
+  "patience": 40,
+  "smooth_l1_beta": 0.1,
+  "explainer_epochs": 60,
+  "explainer_lr": 0.01,
+  "integrated_gradient_steps": 50,
+  "top_k_edges": 4,
+  "top_k_features": 2,
+  "random_control_trials": 20,
+  "stability_runs": 10,
+  "stability_noise_sd": 0.01,
+  "data_seeds": [
+    2026,
+    2027,
+    2028,
+    2029,
+    2030,
+    2031,
+    2032,
+    2033,
+    2034,
+    2035
+  ],
+  "explanation_model_seeds": [
+    0,
+    1,
+    2
+  ],
+  "stability_data_seeds": [
+    2026,
+    2027,
+    2028,
+    2029,
+    2030
+  ],
+  "top_k_values": [
+    2,
+    4,
+    6,
+    8
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "2026": {
+    "node_counts": {
+      "policyholder": 600,
+      "claim": 600,
+      "health_policy": 450,
+      "healthcare_provider": 40,
+      "total": 1690
+    },
+    "unique_relationships": 2400,
+    "directed_edge_entries": 4800,
+    "split_counts": {
+      "train": 384,
+      "validation": 96,
+      "test": 120
+    },
+    "target_min": 0.027395151555538177,
+    "target_max": 0.7664330005645752,
+    "target_mean": 0.2021491527557373,
+    "target_sd": 0.141826793551445,
+    "data_seed": 2026
+  },
+  "2027": {
+    "node_counts": {
+      "policyholder": 600,
+      "claim": 600,
+      "health_policy": 450,
+      "healthcare_provider": 40,
+      "total": 1690
+    },
+    "unique_relationships": 2400,
+    "directed_edge_entries": 4800,
+    "split_counts": {
+      "train": 384,
+      "validation": 96,
+      "test": 120
+    },
+    "target_min": 0.03923186659812927,
+    "target_max": 0.7869927287101746,
+    "target_mean": 0.20772972702980042,
+    "target_sd": 0.1398061364889145,
+    "data_seed": 2027
+  },
+  "2028": {
+    "node_counts": {
+      "policyholder": 600,
+      "claim": 600,
+      "health_policy": 450,
+      "healthcare_provider": 40,
+      "total": 1690
+    },
+    "unique_relationships": 2400,
+    "directed_edge_entries": 4800,
+    "split_counts": {
+      "train": 384,
+      "validation": 96,
+      "test": 120
+    },
+    "target_min": 0.030942827463150024,
+    "target_max": 0.797980785369873,
+    "target_mean": 0.1984817534685135,
+    "target_sd": 0.13433067500591278,
+    "data_seed": 2028
+  },
+  "2029": {
+    "node_counts": {
+      "policyholder": 600,
+      "claim": 600,
+      "health_policy": 450,
+      "healthcare_provider": 40,
+      "total": 1690
+    },
+    "unique_relationships": 2400,
+    "directed_edge_entries": 4800,
+    "split_counts": {
+      "train": 384,
+      "validation": 96,
+      "test": 120
+    },
+    "target_min": 0.0432320237159729,
+    "target_max": 0.8234301209449768,
+    "target_mean": 0.21276915073394775,
+    "target_sd": 0.14375755190849304,
+    "data_seed": 2029
+  },
+  "2030": {
+    "node_counts": {
+      "policyholder": 600,
+      "claim": 600,
+      "health_policy": 450,
+      "healthcare_provider": 40,
+      "total": 1690
+    },
+    "unique_relationships": 2400,
+    "directed_edge_entries": 4800,
+    "split_counts": {
+      "train": 384,
+      "validation": 96,
+      "test": 120
+    },
+    "target_min": 0.037833321839571,
+    "target_max": 0.8382604122161865,
+    "target_mean": 0.2054564505815506,
+    "target_sd": 0.13484513759613037,
+    "data_seed": 2030
+  },
+  "2031": {
+    "node_counts": {
+      "policyholder": 600,
+      "claim": 600,
+      "health_policy": 450,
+      "healthcare_provider": 40,
+      "total": 1690
+    },
+    "unique_relationships": 2400,
+    "directed_edge_entries": 4800,
+    "split_counts": {
+      "train": 384,
+      "validation": 96,
+      "test": 120
+    },
+    "target_min": 0.034317344427108765,
+    "target_max": 0.795007586479187,
+    "target_mean": 0.20730440318584442,
+    "target_sd": 0.13588941097259521,
+    "data_seed": 2031
+  },
+  "2032": {
+    "node_counts": {
+      "policyholder": 600,
+      "claim": 600,
+      "health_policy": 450,
+      "healthcare_provider": 40,
+      "total": 1690
+    },
+    "unique_relationships": 2400,
+    "directed_edge_entries": 4800,
+    "split_counts": {
+      "train": 384,
+      "validation": 96,
+      "test": 120
+    },
+    "target_min": 0.03814229741692543,
+    "target_max": 0.8456149101257324,
+    "target_mean": 0.2115812748670578,
+    "target_sd": 0.14094458520412445,
+    "data_seed": 2032
+  },
+  "2033": {
+    "node_counts": {
+      "policyholder": 600,
+      "claim": 600,
+      "health_policy": 450,
+      "healthcare_provider": 40,
+      "total": 1690
+    },
+    "unique_relationships": 2400,
+    "directed_edge_entries": 4800,
+    "split_counts": {
+      "train": 384,
+      "validation": 96,
+      "test": 120
+    },
+    "target_min": 0.02979384921491146,
+    "target_max": 0.8101251721382141,
+    "target_mean": 0.1989184021949768,
+    "target_sd": 0.13076792657375336,
+    "data_seed": 2033
+  },
+  "2034": {
+    "node_counts": {
+      "policyholder": 600,
+      "claim": 600,
+      "health_policy": 450,
+      "healthcare_provider": 40,
+      "total": 1690
+    },
+    "unique_relationships": 2400,
+    "directed_edge_entries": 4800,
+    "split_counts": {
+      "train": 384,
+      "validation": 96,
+      "test": 120
+    },
+    "target_min": 0.03669982776045799,
+    "target_max": 0.773706316947937,
+    "target_mean": 0.21036577224731445,
+    "target_sd": 0.1443123072385788,
+    "data_seed": 2034
+  },
+  "2035": {
+    "node_counts": {
+      "policyholder": 600,
+      "claim": 600,
+      "health_policy": 450,
+      "healthcare_provider": 40,
+      "total": 1690
+    },
+    "unique_relationships": 2400,
+    "directed_edge_entries": 4800,
+    "split_counts": {
+      "train": 384,
+      "validation": 96,
+      "test": 120
+    },
+    "target_min": 0.029527606442570686,
+    "target_max": 0.6354360580444336,
+    "target_mean": 0.2051631361246109,
+    "target_sd": 0.13218092918395996,
+    "data_seed": 2035
+  }
+}
