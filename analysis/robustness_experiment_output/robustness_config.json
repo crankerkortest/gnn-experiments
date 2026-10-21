@@ -1,0 +1,55 @@
+{
+  "base_config": {
+    "data_seed": 2026,
+    "model_seeds": [
+      0
+    ],
+    "num_policyholders": 600,
+    "num_claims": 600,
+    "num_health_policies": 450,
+    "num_providers": 40,
+    "hidden_channels": 64,
+    "dropout": 0.2,
+    "learning_rate": 0.005,
+    "weight_decay": 0.0001,
+    "max_epochs": 400,
+    "patience": 40,
+    "smooth_l1_beta": 0.1,
+    "explainer_epochs": 60,
+    "explainer_lr": 0.01,
+    "integrated_gradient_steps": 50,
+    "top_k_edges": 4,
+    "top_k_features": 2,
+    "random_control_trials": 20,
+    "stability_runs": 2,
+    "stability_noise_sd": 0.01
+  },
+  "data_seeds": [
+    2026,
+    2027,
+    2028,
+    2029,
+    2030
+  ],
+  "conditions": [
+    "baseline",
+    "causal_path_removed",
+    "weaker_effects",
+    "higher_noise",
+    "nonlinear_effects",
+    "omitted_latent_cause",
+    "spurious_relationships"
+  ],
+  "condition_labels": {
+    "baseline": "Baseline generator",
+    "causal_path_removed": "Provider path removed",
+    "weaker_effects": "Effects multiplied by 0.5",
+    "higher_noise": "Outcome noise multiplied by 2",
+    "nonlinear_effects": "Nonlinear interactions added",
+    "omitted_latent_cause": "Unobserved latent cause added",
+    "spurious_relationships": "25% noncausal relationships added"
+  },
+  "nodes_per_graph": 30,
+  "structural_explanation_size": 4,
+  "mean_target_matched_across_conditions": true
+}
