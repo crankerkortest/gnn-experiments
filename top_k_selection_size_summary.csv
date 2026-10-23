@@ -1,0 +1,8 @@
+nominal_top_k,selected_edge_count,case_count
+2,2,1200
+4,4,1200
+6,4,310
+6,6,890
+8,4,310
+8,7,382
+8,8,508

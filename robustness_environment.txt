@@ -1,0 +1,8 @@
+Robustness extension execution environment
+Python 3.12.14
+PyTorch 2.5.1+cpu
+PyTorch Geometric 2.7.0
+NumPy 2.3.5
+SciPy 1.17.0
+scikit-learn 1.8.0
+Device: CPU
